@@ -93,7 +93,6 @@ public class Test1 {
         }
 
         // Translate titles to English
-        System.out.println("titles:" + titles);
         List<String> translatedTitles = new ArrayList<>();
         for (String title : titles) {
             String translated = translateText(title, "es", "en");
