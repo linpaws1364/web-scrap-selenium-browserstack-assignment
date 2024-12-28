@@ -194,7 +194,6 @@ This assignment highlights the use of Selenium and BrowserStack for web scraping
 
 
     ------------------Article Ends------------------
-    titles:[Feijóo y la confusión, México mira al norte, Las mentiras del año nuevo, Barco lleno, barco vacío, ‘Las tres fronteras’]
     Translated Title: Feij�o and confusing it
 
 
