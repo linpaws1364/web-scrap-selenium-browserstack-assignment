@@ -11,7 +11,7 @@ This assignment highlights the use of Selenium and BrowserStack for web scraping
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/linpaws1364/web-scrap-selenium-browserstack-assignment.git
    cd web-scrap-selenium-browserstack
    ```
 
